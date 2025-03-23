@@ -8,9 +8,9 @@ const Hero = () => {
       <div className="container grid">
         <div className="hero-information">
           <h1>Little Lemon</h1>
-          <h2>Chicago</h2>
+          <h2>London</h2>
           <p>
-            We are a family owned Mediterranean restaurant, focused on
+            We are a family owned European restaurant, focused on
             traditional recipes served with a modern twist.
           </p>
           <HashLink className="button-primary" to="/reservations">
